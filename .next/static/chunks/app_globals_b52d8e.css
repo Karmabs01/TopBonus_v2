@@ -746,21 +746,6 @@ select {
   margin-right: auto;
 }
 
-.\!my-16 {
-  margin-top: 4rem !important;
-  margin-bottom: 4rem !important;
-}
-
-.\!my-20 {
-  margin-top: 5rem !important;
-  margin-bottom: 5rem !important;
-}
-
-.\!my-24 {
-  margin-top: 6rem !important;
-  margin-bottom: 6rem !important;
-}
-
 .\!mb-0 {
   margin-bottom: 0 !important;
 }
@@ -917,12 +902,12 @@ select {
   margin-top: auto;
 }
 
-.\!mt-24 {
-  margin-top: 6rem !important;
-}
-
 .mt-16 {
   margin-top: 4rem;
+}
+
+.\!mt-24 {
+  margin-top: 6rem !important;
 }
 
 .block {
@@ -1947,10 +1932,6 @@ select {
 
 .pt-8 {
   padding-top: 2rem;
-}
-
-.\!pt-16 {
-  padding-top: 4rem !important;
 }
 
 .text-left {
