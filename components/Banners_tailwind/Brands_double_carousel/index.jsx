@@ -126,7 +126,7 @@ export default function Brands_double_carousel() {
   
   return (
     <>
-      <div className="brands_rows pt-10 pb-10">
+      <div className="brands_rows pt-10">
         <div className="main__container relative mt-8">
           <div className="background-slider2 absolute">
             <svg

@@ -143,7 +143,7 @@ export default function TopBrands() {
 
   return (
     <>
-      <div className="topbr-tw mb-10">
+      <div className="topbr-tw ">
         <div className="main__container">
           {loading ? (
             <Loader />
